@@ -26,6 +26,7 @@ namespace LazyDisYTUnlocker
             { "[hosts]", Path.GetFullPath(_hostsDirectory) },
             { "[winwsdir]", _zapretDirectory }
         };
+        //fewwe
 
         internal static Dictionary<string, string> HostsPaths = new Dictionary<string, string>()
         {
